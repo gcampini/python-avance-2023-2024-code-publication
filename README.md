@@ -23,3 +23,7 @@ Une fois les dépendances installées, vous pourrez normalement exécuter le scr
 3. Préparez le package de votre équipe à sa publication (en créant un fichier `setup.py`). **Attention, les tests doivent passer sans erreur.**
 4. Construisez les distributions de votre package en utilisant `setuptools`.
 5. Publiez le package de votre équipe sur https://test.pypi.org/ en utilisant `twine`.
+
+## Aides
+
+- Pour le package `prediction`, utiliser la classe `LinearRegression` de `sklearn`.
