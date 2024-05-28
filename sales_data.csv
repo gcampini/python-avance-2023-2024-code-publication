@@ -1,0 +1,21 @@
+date,product,price,quantity
+2023-01-01,Product A,10.0,5
+2023-01-01,Product B,15.0,3
+2023-01-02,Product A,10.0,7
+2023-01-02,Product B,15.0,2
+2023-01-03,Product A,10.0,6
+2023-01-03,Product B,15.0,4
+2023-01-04,Product A,10.0,8
+2023-01-04,Product B,15.0,5
+2023-01-05,Product A,10.0,5
+2023-01-05,Product B,15.0,3
+2023-01-06,Product A,10.0,9
+2023-01-06,Product B,15.0,1
+2023-01-07,Product A,10.0,4
+2023-01-07,Product B,15.0,6
+2023-01-08,Product A,10.0,7
+2023-01-08,Product B,15.0,2
+2023-01-09,Product A,10.0,6
+2023-01-09,Product B,15.0,3
+2023-01-10,Product A,10.0,5
+2023-01-10,Product B,15.0,4
